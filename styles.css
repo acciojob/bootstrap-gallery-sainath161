@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.card-text {
+            text-align: center;
+        }
+        /* Add border radius to cards */
+        .card {
+            border-radius: 15px;
+        }
